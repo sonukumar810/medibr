@@ -4,7 +4,7 @@ A full‑stack web application for discovering doctors, filtering by specialty, 
 
 **Live Apps**
 
-* **User App:** [https://medibr-p9a5gnibw-sonukumar1032004-1591s-projects.vercel.app/](https://medibr-p9a5gnibw-sonukumar1032004-1591s-projects.vercel.app/)
+* **User App:** https://medibr-git-main-sonukumar1032004-1591s-projects.vercel.app/
 * **Admin App:** [https://medibr-rneq.vercel.app/](https://medibr-rneq.vercel.app/)
 
 ---
